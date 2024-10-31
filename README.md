@@ -8,7 +8,7 @@ Official code for "Controllable Talking Face Generation by Implicit Facial Keypo
 **ControlTalk**: A talking face generation method to control face expression deformation based on driven
 audio, constructing the head pose and facial expression (lip motion) for both single image or sequential video inputs in a unified manner.
 
-<video src="https://github.com/NetEase-Media/ControlTalk/blob/68b0c1eed88f7ffcda2f299a75cee82b6db15257/data/demo.mp4" controls>  </video>
+<video src="[data/demo.mp4](https://github.com/user-attachments/assets/7c01c7ed-e6c6-482c-a39b-86072428ea9c)" controls>  </video>
 
 ## News
 - **2024/10/31**: Inference code is now available!

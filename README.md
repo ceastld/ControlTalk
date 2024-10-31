@@ -8,8 +8,7 @@ Official code for "Controllable Talking Face Generation by Implicit Facial Keypo
 **ControlTalk**: A talking face generation method to control face expression deformation based on driven
 audio, constructing the head pose and facial expression (lip motion) for both single image or sequential video inputs in a unified manner.
 
-<video src="./data/demo.mp4" controls>  </video>
-
+<video src="https://github.com/NetEase-Media/ControlTalk/blob/68b0c1eed88f7ffcda2f299a75cee82b6db15257/data/demo.mp4" controls>  </video>
 
 ## News
 - **2024/10/31**: Inference code is now available!
@@ -65,7 +64,6 @@ Coming soon!
 
 
 ## Acknowledgements
- texunhubert facevid
 - [chinese_speech_pretrain](https://github.com/TencentGameMate/chinese_speech_pretrain)
 - [face-vid2vid](https://nvlabs.github.io/face-vid2vid/)
 - [face-vid2vid (Unofficial implementation)](https://github.com/zhanglonghao1992/One-Shot_Free-View_Neural_Talking_Head_Synthesis)

@@ -166,3 +166,5 @@ run_infer.sh
 
 results/
 temp/
+
+checkpoints/
